@@ -1,0 +1,6 @@
+# gitignore file
+# ignore data folder data/
+data/
+
+# ignore mac os files
+.DS_Store
